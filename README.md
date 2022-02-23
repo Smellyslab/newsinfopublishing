@@ -2,9 +2,9 @@
 attempt at writing a user based news publishing system for un-biased news.
 
 #__intended purposes__
--intended to be used for information sharing
--intended to be used for un-biased media and news controlled by people for people
--intended to be userfriendly
+- intended to be used for information sharing
+- intended to be used for un-biased media and news controlled by people for people
+- intended to be userfriendly
 
 #__todos__
 - create homepage
